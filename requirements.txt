@@ -1,2 +1,3 @@
-soundcard
-soundfile
+soundcard==0.4.3
+soundfile==0.12.1
+PySide6==6.8.1
