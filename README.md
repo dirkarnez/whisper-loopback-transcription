@@ -26,3 +26,7 @@ Based on [tez3998/loopback-capture-sample: Sample code which records system (spe
         data = mic.record()
         print(data.size)
 ```
+
+### Notes
+- use libobs for loopback
+    - [obs-studio/libobs/audio-monitoring at master · obsproject/obs-studio](https://github.com/obsproject/obs-studio/tree/master/libobs/audio-monitoring)
