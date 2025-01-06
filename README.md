@@ -30,3 +30,6 @@ Based on [tez3998/loopback-capture-sample: Sample code which records system (spe
 ### Notes
 - use libobs for loopback
     - [obs-studio/libobs/audio-monitoring at master · obsproject/obs-studio](https://github.com/obsproject/obs-studio/tree/master/libobs/audio-monitoring)
+    - [OBS Studio Backend Design — OBS Studio 31.0.0 documentation](https://docs.obsproject.com/backend-design)
+    - [stream-labs/obs-studio-node: libOBS (OBS Studio) for Node.Js, Electron and similar tools](https://github.com/stream-labs/obs-studio-node)
+    - [obs-studio-node/dependency_checker at staging · stream-labs/obs-studio-node](https://github.com/stream-labs/obs-studio-node/tree/staging/dependency_checker)
